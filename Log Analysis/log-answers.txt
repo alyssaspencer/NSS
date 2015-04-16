@@ -1,0 +1,23 @@
+1.	What type of log file is it?
+2.	What are the dates, which are represented by the logs?
+3.	How many unique users appear?
+4.	What was the largest data export? And does it look out of the ordinary?
+5.	What is the most common error found in the error logs?
+6.	Do you see anything, which is out of the ordinary?
+7.	Write a short synopsis of what you found in each file.
+
+
+1: These are access logs from different ip addresses, with a few PHP error logs, one security log and a server messages log. 
+
+2: The dates I found are from November 7th to December 8th.
+
+3:There are hundreds of ip addresses; the most logs are from California, I also saw someone outside of the Nile.  
+
+4: I’m not sure I see the number for data exporting. I see the web browser used and a number before it, if the number is the file size of the download then the largest number I see is 4,036,805. I’m assuming that number is in bytes.
+
+
+5: Command not found is the most common error in the access, and the error logs seem to have a lot of “script not found or unable to stat”.
+
+6: There was about fifty failed login attempt from China as stated in the secure file.
+
+7. There was a lot of information; from PHP errors to server access logs that where almost innumerable, to secure server logs and messages. If anything I was astounded at the huge list of ip addresses and information a server collects, before now I had no Idea a server gathered so much about you when you download! This will give me extra precautions when managing servers/files in the future.
