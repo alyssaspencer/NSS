@@ -1,0 +1,1 @@
+Installed applications and updates;Java 7Tomcat7Python 3.3.5Updated Apache2
